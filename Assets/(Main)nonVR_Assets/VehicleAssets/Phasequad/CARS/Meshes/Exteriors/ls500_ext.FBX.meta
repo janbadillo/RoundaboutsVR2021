@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: bdb5350caba83184692d3741490e6ef6
+timeCreated: 1537558073
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: carbody
+    100002: carcolor
+    100004: f_glow
+    100006: f_left
+    100008: f_lights
+    100010: f_right
+    100012: glass
+    100014: inter1
+    100016: inter2
+    100018: inter3
+    100020: l_glass
+    100022: //RootNode
+    100024: r_glow
+    100026: r_left
+    100028: r_lights
+    100030: r_rear
+    100032: r_right
+    100034: s_wheel
+    100036: Object001assaas
+    100038: r_rear 1
+    100040: Object001
+    100042: r_stop
+    400000: carbody
+    400002: carcolor
+    400004: f_glow
+    400006: f_left
+    400008: f_lights
+    400010: f_right
+    400012: glass
+    400014: inter1
+    400016: inter2
+    400018: inter3
+    400020: l_glass
+    400022: //RootNode
+    400024: r_glow
+    400026: r_left
+    400028: r_lights
+    400030: r_rear
+    400032: r_right
+    400034: s_wheel
+    400036: Object001assaas
+    400038: r_rear 1
+    400040: Object001
+    400042: r_stop
+    2300000: carbody
+    2300002: carcolor
+    2300004: f_glow
+    2300006: f_left
+    2300008: f_lights
+    2300010: f_right
+    2300012: glass
+    2300014: inter1
+    2300016: inter2
+    2300018: inter3
+    2300020: l_glass
+    2300022: r_glow
+    2300024: r_left
+    2300026: r_lights
+    2300028: r_rear
+    2300030: r_right
+    2300032: s_wheel
+    2300034: Object001assaas
+    2300036: r_rear 1
+    2300038: Object001
+    2300040: r_stop
+    3300000: carbody
+    3300002: carcolor
+    3300004: f_glow
+    3300006: f_left
+    3300008: f_lights
+    3300010: f_right
+    3300012: glass
+    3300014: inter1
+    3300016: inter2
+    3300018: inter3
+    3300020: l_glass
+    3300022: r_glow
+    3300024: r_left
+    3300026: r_lights
+    3300028: r_rear
+    3300030: r_right
+    3300032: s_wheel
+    3300034: Object001assaas
+    3300036: r_rear 1
+    3300038: Object001
+    3300040: r_stop
+    4300000: glass
+    4300002: l_glass
+    4300004: f_lights
+    4300006: f_glow
+    4300008: f_left
+    4300010: f_right
+    4300012: r_glow
+    4300014: r_rear
+    4300016: r_lights
+    4300018: r_left
+    4300020: r_right
+    4300022: carbody
+    4300024: carcolor
+    4300026: inter1
+    4300028: s_wheel
+    4300030: inter2
+    4300032: inter3
+    4300034: Object001assaas
+    4300036: r_rear
+    4300038: Object001
+    4300040: r_stop
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
