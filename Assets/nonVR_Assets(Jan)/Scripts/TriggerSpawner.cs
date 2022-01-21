@@ -36,6 +36,7 @@ public class TriggerSpawner : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        print("Trigger Activated!");
         if (!other.gameObject.CompareTag("Player")) return;
         
         for (int i = 0; i < spawnIndexes.Count; i++)
@@ -44,7 +45,7 @@ public class TriggerSpawner : MonoBehaviour
             {
                 var car = Instantiate(carPrefab, segments[i].waypoints[j].transform.position, segments[i].waypoints[j].transform.rotation);
                 car.transform.LookAt(segments[i].waypoints[j+1].transform);
-                //???Possibly add velocity on spawn???
+                car.transform.GetComponent<Rigidbody>().velocity = car.transform.forward * segments[i].waypoints[j+1].speed;
                 car.GetComponent<VehicleAI>().trafficSystem = this.trafficSystem;
             }
             

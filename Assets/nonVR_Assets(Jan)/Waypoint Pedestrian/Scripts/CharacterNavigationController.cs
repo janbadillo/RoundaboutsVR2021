@@ -41,7 +41,6 @@ public class CharacterNavigationController : MonoBehaviour
 
             velocity = (transform.position - lastPosition) / Time.deltaTime;
             velocity.y = 0;
-            var velocityMargnitude = velocity.magnitude;
             velocity = velocity.normalized;
         }
 
